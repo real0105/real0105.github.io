@@ -19,19 +19,8 @@ You can find the source code for Jekyll at GitHub:
 
 
 
-# h1
+##### 정통 17 유진영 깃허브 ^ ^
 
-## h2
-
-### h3
-
-*얌*
-
-**얌**
-
-`와`
-
-
-
-
+* 마크다운 사용법 정리
+* 자바 기본 문법 정리
 
