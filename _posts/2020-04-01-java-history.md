@@ -27,11 +27,13 @@ Static Import
 
 Concurrency API 
 
-##### java.util.Scanner 
+__java.util.Scanner__ 
 
 
 
-### JAVA SE 6
+
+
+### Java SE 6
 
 Scripting Language Support
 
@@ -45,7 +47,9 @@ Rhino JavaScript 엔진 기본 탑재
 
 
 
-### JAVA SE 7
+
+
+### Java SE 7
 
 Dynamic Language 지원
 
@@ -73,7 +77,9 @@ Java Deployment Ruleset
 
 
 
-### JAVA SE 8
+
+
+### Java SE 8
 
  Lambda Expression
 
@@ -97,5 +103,72 @@ Stream API
 
 
 
-### JAVA SE 9
 
+
+### Java SE 9
+
+Project Jigsaw 기반으로 런타임 모듈화
+
+JShell 
+
+선행 컴파일 (실험 기능)
+
+불변 컬렉션
+
+통합 로깅
+
+HTTP/2
+
+private 인터페이스 메소드
+
+HTML5 Javadoc
+
+프로퍼티 파일에 UTF-8 지원
+
+
+
+
+
+### Java SE 10
+
+var 키워드를 이용한 지역 변수 타입 추론
+
+병렬 처리 가비지 컬렉션
+
+개별 쓰레드로 분리된 Stop-The-World
+
+루트 CA 목록
+
+Java 기반의 JIT 컴파일러 추가 (실험 기능)
+
+
+
+
+
+### Java SE 11
+
+ 람다 파라미터에 대한 지역 변수 문법
+
+엡실론 가비지 컬렉터
+
+HTTP 클라이언트 표준화
+
+
+
+
+
+### Java SE 12
+
+Switch문 확장
+
+가비지 컬렉터 개선
+
+마이크로 벤치마크 툴 추가, 성능 개선
+
+
+
+
+
+### Java SE 13
+
+yield 예약어 추가

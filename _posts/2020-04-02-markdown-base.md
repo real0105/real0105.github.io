@@ -30,6 +30,8 @@ post 폴더에 2020-04-20-title 로 저장
 
 
 
+
+
 ## MarkDown 기본 문법
 
 
@@ -66,6 +68,8 @@ post 폴더에 2020-04-20-title 로 저장
 
 밑줄 < < 잘 모르겟음
 
+.. 
+
 
 
 > 블럭 인용
@@ -84,6 +88,8 @@ post 폴더에 2020-04-20-title 로 저장
 
 
 
+
+
 #### 리스트
 
 1. 첫번째
@@ -98,23 +104,10 @@ post 폴더에 2020-04-20-title 로 저장
 
 
 
+
+
 #### 링크
-
-자동연결 
-
-Naver : https://naver.com
-
-
-
-인라인 링크
 
 Naver : [네이버 이동](https://naver.com)
 
-
-
-참조 링크
-
-Naver : [네이버 이동][link_naver]
-
-[link_naver] : https://naver.com
 
