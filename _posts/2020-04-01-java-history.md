@@ -1,5 +1,5 @@
 ---
-type : post
+layout : single
 date : 2020-04-01 18:18:00 +0900
 title : "JAVA History"
 

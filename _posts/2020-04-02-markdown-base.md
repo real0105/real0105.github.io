@@ -1,5 +1,5 @@
 ---
-type : post
+layout : single
 date : 2020-04-02 02:55:00 +0900
 title : "MarkDown Base"
 ---
@@ -14,7 +14,7 @@ Typora에서 파일 새로만들기
 
 본문에 --- + enter 후
 
-type : post
+layout : post
 
 date : 2020-04-02 03:09:00 +0900  // 초까지 적어야함
 
